@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![E-wave's github stats](https://github-readme-stats.vercel.app/api?username=E-wave112)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-wave112)](https://github.com/E-wave112/github-readme-stats)
