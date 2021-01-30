@@ -15,7 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![E-wave's github stats](https://github-readme-stats.vercel.app/api?username=E-wave112)
+
+My nae is [Emmanuel](https://esportfolio.netlify.app/) 
+
+A passionate software developer and AI enthusiast residing at lagos,Nigeria
+
+💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
+
+📫 Hit me up on my various social media handles 🔭:
+<a href="https://twitter.com/E-wave07">
+  <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/osagie-iyayi-a277b21ab/">
+  <img align="left" alt="My linkedIn Profile" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3zm26I7nJ1_w2lkhGwGhDt&ust=1612092520293000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC2gePGw-4CFQAAAAAdAAAAABAD" />
+</a>
+<a href="https://wa.me/2347081927814">
+  <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
+</a>
 
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
