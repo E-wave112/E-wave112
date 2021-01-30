@@ -23,6 +23,8 @@ A passionate software developer and AI enthusiast residing at lagos,Nigeria
 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
 
 📫 Hit me up on my various social media handles 🔭:
+
+
 [LinkedIn](https://www.linkedin.com/in/osagie-iyayi-a277b21ab/)
 
 <a href="https://twitter.com/Ewave07">
