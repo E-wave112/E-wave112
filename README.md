@@ -28,7 +28,7 @@ A passionate software developer and AI enthusiast residing at lagos,Nigeria
   <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/osagie-iyayi-a277b21ab/">
-  <img align="left" alt="My linkedIn Profile" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3zm26I7nJ1_w2lkhGwGhDt&ust=1612092520293000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC2gePGw-4CFQAAAAAdAAAAABAI" />
+  <img align="left" alt="My linkedIn Profile" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Flinked%2Blinkedin%2Bicon-1320183900851414557%2F&psig=AOvVaw3zm26I7nJ1_w2lkhGwGhDt&ust=1612092520293000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC2gePGw-4CFQAAAAAdAAAAABAN" />
 </a>
 <a href="https://wa.me/2347081927814">
   <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
