@@ -24,7 +24,7 @@ A passionate software developer and AI enthusiast residing at lagos,Nigeria
 
 📫 Hit me up on my various social media handles 🔭:
 
-<a href="https://twitter.com/E-wave07">
+<a href="https://twitter.com/Ewave07">
   <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/osagie-iyayi-a277b21ab/">
