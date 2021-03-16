@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is [Emmanuel](https://esportfolio.netlify.app/) 
 
-A dedicated software developer and AI enthusiast residing at lagos,Nigeria
+A dedicated software engineer and AI developer residing at lagos,Nigeria
 
 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
 
