@@ -27,8 +27,13 @@ My name is [Emmanuel](https://esportfolio.netlify.app/)
 - 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
 
 -  📫 Hit me up on my various social media handles 🔭:
+<!--
+[LinkedIn](https://www.linkedin.com/in/osagie-iyayi-a277b21ab/) https://image.flaticon.com/icons/png/128/174/174857.png
+-->
+<a href="https://www.linkedin.com/in/osagie-iyayi-a277b21ab/">
+  <img align="left" alt="My LinkedIn profile" width="21px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/osagie-iyayi-a277b21ab/)
 <a href="https://twitter.com/Ewave07">
   <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
