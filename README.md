@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 
 My name is [Emmanuel](https://esportfolio.netlify.app/) 
 
-A dedicated software engineer and Budding AI developer residing at lagos,Nigeria
+- A dedicated software engineer and Budding AI developer residing at lagos,Nigeria
 
-- 👯 I’m looking to collaborate on Open source software projects
+- 🌱 I’m currently learning [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Information Security](https://en.wikipedia.org/wiki/Information_security)
 
-💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
+- 👯 I’m looking to collaborate on [Open source](https://en.wikipedia.org/wiki/Open_source) software projects
 
-📫 Hit me up on my various social media handles 🔭:
+- 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
+
+-  📫 Hit me up on my various social media handles 🔭:
 
 [LinkedIn](https://www.linkedin.com/in/osagie-iyayi-a277b21ab/)
 <a href="https://twitter.com/Ewave07">
