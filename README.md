@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 My name is [Emmanuel](https://esportfolio.netlify.app/) 
 
-A dedicated software engineer and AI developer residing at lagos,Nigeria
+A dedicated software engineer and Budding AI developer residing at lagos,Nigeria
+
+- 👯 I’m looking to collaborate on Open source software projects
 
 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
 
