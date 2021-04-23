@@ -41,7 +41,7 @@ My name is [Emmanuel](https://esportfolio.netlify.app/)
   <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
 </a>
 
-
+<br/>
 
 - NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
