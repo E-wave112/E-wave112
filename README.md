@@ -30,7 +30,7 @@ My name is [Emmanuel](https://esportfolio.netlify.app/)
 <!--
 [LinkedIn](https://www.linkedin.com/in/osagie-iyayi-a277b21ab/) https://image.flaticon.com/icons/png/128/174/174857.png
 -->
-- <a href="https://www.linkedin.com/in/osagie-iyayi-a277b21ab/">
+<a href="https://www.linkedin.com/in/osagie-iyayi-a277b21ab/">
   <img align="left" alt="My LinkedIn profile" width="21px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
 </a>
 
