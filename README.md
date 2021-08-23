@@ -24,7 +24,7 @@ My name is [Emmanuel](https://esportfolio.netlify.app/)
 
 - 👯 I’m looking to collaborate on [Open source](https://en.wikipedia.org/wiki/Open_source) software projects
 
-- 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues)
+- 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues) and you can also check out my gists [here](https://gist.github.com/mine)
 
 -  📫 Hit me up on my various social media handles 🔭:
 <!--
