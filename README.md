@@ -31,14 +31,14 @@ My name is [Emmanuel](https://esportfolio.netlify.app/)
 [LinkedIn](https://www.linkedin.com/in/osagie-iyayi-a277b21ab/) https://image.flaticon.com/icons/png/128/174/174857.png
 -->
 <a href="https://www.linkedin.com/in/osagie-iyayi-a277b21ab/">
-  <img align="left" alt="My LinkedIn profile" width="21px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
+  <img align="left" alt="My LinkedIn profile" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://twitter.com/Ewave07">
   <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://wa.me/2347081927814">
-  <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
+  <img align="left" alt="My contact" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" />
 </a>
 
 <br/>
