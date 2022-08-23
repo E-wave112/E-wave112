@@ -23,6 +23,7 @@ My name is [Emmanuel](https://esportfolio.netlify.app/)
 - 🌱 I’m currently learning [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Information Security](https://en.wikipedia.org/wiki/Information_security)
 
 - 👯 I’m looking to collaborate on [Open source](https://en.wikipedia.org/wiki/Open_source) software projects
+- 🧠 Check out my talk session at OSCAFEST2022 on [Modern Machine Learning](https://docs.google.com/presentation/d/1zG_ROUvEgdH7_nWLXxQWyTxwmyK7haG8ozyIkHPKENI/edit?usp=drivesdk)
 
 - 💬 You can reach out to me on github about any [issues](https://github.com/E-wave112/E-wave112/issues) and you can also check out my gists [here](https://gist.github.com/mine)
 
