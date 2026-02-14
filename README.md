@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is [Emmanuel](https://esportfolio.netlify.app/) 
 
-- A dedicated software engineer and Budding AI developer residing at Lagos, Nigeria
+- I am a software and platform engineer who focuses on and enjoys optimizing the business-logic of the applications I build whilst ensuring their integrity and compatibility with other services at scale 👨‍💻
 
 - 🌱 I’m currently learning [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Information Security](https://en.wikipedia.org/wiki/Information_security)
 
